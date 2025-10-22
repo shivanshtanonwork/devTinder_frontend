@@ -5,3 +5,6 @@
 - Installed Tailwind CSS
 - Install Daisy UI
 - Create NavBar component
+- Install React-Router
+- Create Browser Router - Routes > Route= /Body
+- Create and Outlet in Body Component
